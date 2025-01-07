@@ -28,7 +28,10 @@ def home():
 
         "USA (Nowy Jork)": get_time_in_timezone("America/New_York"),
 
-        "Chiny (Pekin)": get_time_in_timezone("Asia/Shanghai")
+        "Chiny (Pekin)": get_time_in_timezone("Asia/Shanghai"),
+
+        "Turcja": get_time_in_timezone("Europe/Istanbul")
+
 
     }
 
